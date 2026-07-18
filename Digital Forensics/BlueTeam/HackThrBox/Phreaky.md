@@ -1,4 +1,4 @@
-# HTB -  Phreaky - Forensics Write-up
+# HTB - CTF-Try-Out Event- Phreaky - Forensics Write-up
 **Author:** Mohammed Ali  
 **Team:** CyberScope  
 **Platform:** HackTheBox 
